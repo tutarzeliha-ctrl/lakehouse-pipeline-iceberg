@@ -1,5 +1,7 @@
 __pycache__/
 *.pyc
 lakehouse/
+state/
 .venv/
 .DS_Store
+.pytest_cache/
