@@ -69,8 +69,7 @@ To execute idempotency and crash recovery verification tests:
 
 Bash
 pytest -v
-Test Execution Proof:
-
+✅ Test Results
 Plaintext
 tests/test_pipeline.py::test_incremental_and_idempotency PASSED [ 50%]
 tests/test_pipeline.py::test_crash_recovery PASSED              [100%]
